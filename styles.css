@@ -1988,7 +1988,7 @@ body {
     gap: 4px;
 }
 .korper-card.masculin {
-    border-left-color: #3b82f6;
+    border-left-color: #D4A574;
 }
 .korper-card.feminin {
     border-left-color: #ef4444;
@@ -2001,7 +2001,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
 }
-.korper-card .article.der { color: #3b82f6; }
+.korper-card .article.der { color: #D4A574; }
 .korper-card .article.die { color: #ef4444; }
 .korper-card .article.das { color: #10b981; }
 .korper-card strong {
@@ -2346,9 +2346,9 @@ body {
 .speech-sprechstundenhilfe::after { border-color: transparent transparent transparent #F5F0E8; }
 .character-thomas .character-avatar { background: linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%); border-color: #1e40af; }
 .character-thomas.speaking .character-avatar { box-shadow: 0 0 20px rgba(30, 64, 175, 0.4); transform: scale(1.05); }
-.speech-thomas { background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%); border-color: #93c5fd; color: #1e3a8a; }
+.speech-thomas { background: linear-gradient(135deg, #F5F0E8 0%, #dbeafe 100%); border-color: #93c5fd; color: #1e3a8a; }
 .speech-thomas::before { border-color: transparent transparent transparent #93c5fd; }
-.speech-thomas::after { border-color: transparent transparent transparent #eff6ff; }
+.speech-thomas::after { border-color: transparent transparent transparent #F5F0E8; }
 .btn-replay-reply {
     background: #ecfdf5;
     border: 1px solid #10b981;
